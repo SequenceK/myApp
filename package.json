@@ -1,0 +1,28 @@
+{
+  "name": "myApp",
+  "version": "0.0.0",
+  "description": "Yooooo! This is my app!",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SequenceK/myApp"
+  },
+  "keywords": [
+    "heroku",
+    "myApp"
+  ],
+  "author": "omar-alhammadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SequenceK/myApp/issues"
+  },
+  "homepage": "https://github.com/SequenceK/myApp",
+  "dependencies": {
+    "bower": "^1.3.9",
+    "express": "^4.8.2",
+    "logfmt": "^1.1.2"
+  }
+}
